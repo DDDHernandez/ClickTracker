@@ -2,14 +2,16 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://DDDHernandez.github.io/ClickTracker",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1"
   },
+  "homepage": "https://DDDHernandez.github.io/ClickTracker",
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -29,5 +31,17 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "description": "The Clicky Tracker Test your memory of Will Ferrell's movies with The Click Tracker Game. The Click Tracker is a memory skill application built using React. The objective of the game is to be able to go through and click each player's image once. Each time you click a film poster, your score goes up by one. If you click a films poster twice, you lose and the game resets (score goes back to 0).",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DDDHernandez/ClickTracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DDDHernandez/ClickTracker/issues"
   }
 }
