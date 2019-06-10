@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ClickTracker/static/css/main.4bb5fb6c.chunk.css",
+    "main.js": "/ClickTracker/static/js/main.e56bf492.chunk.js",
+    "main.js.map": "/ClickTracker/static/js/main.e56bf492.chunk.js.map",
+    "runtime~main.js": "/ClickTracker/static/js/runtime~main.bcb861c1.js",
+    "runtime~main.js.map": "/ClickTracker/static/js/runtime~main.bcb861c1.js.map",
+    "static/js/2.6efc73d3.chunk.js": "/ClickTracker/static/js/2.6efc73d3.chunk.js",
+    "static/js/2.6efc73d3.chunk.js.map": "/ClickTracker/static/js/2.6efc73d3.chunk.js.map",
+    "index.html": "/ClickTracker/index.html",
+    "precache-manifest.1736ff96ed50a8618c7ffe8a4e262409.js": "/ClickTracker/precache-manifest.1736ff96ed50a8618c7ffe8a4e262409.js",
+    "service-worker.js": "/ClickTracker/service-worker.js",
+    "static/css/main.4bb5fb6c.chunk.css.map": "/ClickTracker/static/css/main.4bb5fb6c.chunk.css.map"
+  }
+}
